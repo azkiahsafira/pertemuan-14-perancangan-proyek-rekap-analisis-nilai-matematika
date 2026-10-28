@@ -1,0 +1,26 @@
+# ============================================================
+# PERTEMUAN 14 | PERANCANGAN PROYEK PROGRAM SEDERHANA
+# Konfigurasi Git Ignore
+# Nama     : Azkiah Safira
+# NIM      : 2225250013
+# Kelas    : 3F
+# ============================================================
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Temporary files
+*.tmp
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
